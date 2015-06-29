@@ -1,0 +1,10 @@
+{
+  "name": "zender",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+  	"socket.io" : "1.3.5"
+  }
+}
